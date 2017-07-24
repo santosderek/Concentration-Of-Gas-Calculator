@@ -7,11 +7,6 @@ import sys
 MIN_FLOWRATE = 50
 MAX_FLOWRATE = 500
 
-
-
-
-
-
 class flow_rate_one_Sample_Flow_Sliders(QWidget):
     def __init__(self):
         super().__init__()
